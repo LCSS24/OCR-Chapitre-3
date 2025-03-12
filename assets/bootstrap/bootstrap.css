@@ -7526,9 +7526,9 @@ fieldset:disabled .btn {
 
 .visually-hidden,
 .visually-hidden-focusable:not(:focus):not(:focus-within) {
-  color: white;
-  background-color: black;
-  font-size: 18px;
+  color: #000000 !important;
+  background-color: #FFFFFF !important;
+  font-size: 18px !important;
   position: absolute !important;
   width: 1px !important;
   height: 1px !important;
